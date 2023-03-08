@@ -1,0 +1,18 @@
+ul.list-currency {
+  display: flex;
+  flex-direction: column;
+}
+
+li.list-item {
+  list-style: none;
+  border: 1px solid;
+  width: 300px;
+  padding:5px;
+}
+
+.ratebutton{
+  margin:20px;
+  display:flex;
+  padding:5px;
+  text-align:center;
+}
