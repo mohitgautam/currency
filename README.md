@@ -73,7 +73,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
-I can call api in 2 different way first using dirctly from react and 2 through simple php file. there is also different way to get api data as well. but currently i just try as simple with refresh button and auto refresh thing
+I can call API in 2 different ways first using directly from Reactjs and 2 through a simple PHP file. There is also a different way to get API data as well. but currently I just try as simple with refresh button and auto refresh thing. In this task i am using simple PHP file we can also do the same with the Laravel or other MVC and CMS.
 
 
 
